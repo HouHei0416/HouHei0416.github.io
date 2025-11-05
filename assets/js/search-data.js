@@ -28,16 +28,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-have-joined-the-brain-x-machine-intelligence-lab-at-kaist-as-a-research-intern",
+          title: 'I have joined the Brain x Machine Intelligence Lab at KAIST as a...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-have-joined-the-cognitive-ai-for-science-lab-at-nus-as-a-research-scholar",
+          title: 'I have joined the Cognitive AI for Science Lab at NUS as a...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-benchmark-for-fundamental-machine-learning-problems-fml-bench-for-ai-scientists-has-officially-launched",
+          title: 'Our benchmark for fundamental machine learning problems (FML-bench) for AI scientists has officially...',
           description: "",
           section: "News",},{
         id: 'social-email',
