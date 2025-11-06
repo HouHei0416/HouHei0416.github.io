@@ -23,12 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/life/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-have-joined-the-brain-x-machine-intelligence-lab-at-kaist-as-a-research-intern",
+        },{id: "news-i-have-joined-the-brain-x-machine-intelligence-lab-at-kaist-as-a-research-intern",
           title: 'I have joined the Brain x Machine Intelligence Lab at KAIST as a...',
           description: "",
           section: "News",},{id: "news-i-have-joined-the-cognitive-ai-for-science-lab-at-nus-as-a-research-scholar",
