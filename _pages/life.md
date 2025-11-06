@@ -11,9 +11,9 @@ nav_order: 6
 I am passionate about volunteering. In August 2023, I joined the Tanzania International Volunteer Project, where I conducted teaching programs at six primary and secondary schools across Dar es Salaam and Zanzibar. It was a meaningful and eye-opening cultural experience.
 
 <p align="center">
-  <img src="volunteer_1.png" width="350" alt="Teaching in Tanzania">
+  <img src="assets/img/volunteer_1.png" width="350" alt="Teaching in Tanzania">
   <br>
-  <img src="volunteer_2.png" width="350" alt="Teaching in Tanzania">
+  <img src="assets/img/volunteer_2.png" width="350" alt="Teaching in Tanzania">
 </p>
 
 # Macao
@@ -22,7 +22,7 @@ In 2024, I served as the President of the Tsinghua University Macao Cultural Ass
 Thanks to its popularity, Macanese cuisine has now become a permanent option at Tsinghua. There is a special food window on the third floor of Zijingyuan Canteen. Please give it a try if you visit Tsinghua.
 
 <p align="center">
-  <img src="macau_food.png" width="350" alt="Scenes from the Macao Food Festival">
+  <img src="assets/img/macau_food.png" width="350" alt="Scenes from the Macao Food Festival">
 </p>
 
 # Taekwondo
@@ -30,12 +30,12 @@ I have loved Taekwondo since the 6th grade.
 In my second year at Tsinghua, I became Captain of the Tsinghua University Taekwondo Team. I now serve as President of the Tsinghua University Student Taekwondo Association. Taekwondo has shaped my discipline, confidence, and leadership.
 
 <p align="center">
-  <img src="taekwondo.png" width="350" alt="Side kick at Tsinghua’s Main Auditorium.">
+  <img src="assets/img/taekwondo.png" width="350" alt="Side kick at Tsinghua’s Main Auditorium.">
 </p>
 
 # Scientific Interest
 My passion for science began at a young age. I was honored to be supported by the Macao Government to conduct [scientific research in Antarctica](https://www.fdct.gov.mo/en/Antarctic.html) during my teenage years. After returning to Macao, I developed a Self-Adaptive Inspection System for Polar Research. This project won a [Grand Award at the Regeneron ISEF](https://isef.net/project/robo008t---self-adaptive-inspection-system-for-polar-research), the world’s most prestigious pre-college STEM competition and a well-known cradle of future Nobel laureates.
 
 <p align="center">
-  <img src="antarctica.png" width="350" alt="Me in Antarctica">
+  <img src="assets/img/antarctica.png" width="350" alt="Me in Antarctica">
 </p>
