@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-benchmark-for-fundamental-machine-learning-problems-fml-bench-for-ai-scientists-has-officially-launched",
           title: 'Our benchmark for fundamental machine learning problems (FML-bench) for AI scientists has officially...',
           description: "",
+          section: "News",},{id: "news-i-have-joined-sun-lab-at-stanford-university-as-a-visiting-research-associate",
+          title: 'I have joined Sun Lab at Stanford University as a Visiting Research Associate....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
