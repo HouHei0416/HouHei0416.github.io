@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A collection of my research publications and preprints in AI4Science, neuroscience, and cognitive science.
+description: A collection of my research publications and preprints in computational neuroscience, AI4Science.
 nav: true
 nav_order: 2
 ---

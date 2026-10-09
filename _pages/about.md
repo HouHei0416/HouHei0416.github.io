@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
+subtitle: <a href='https://www.ox.ac.uk/'>University of Oxford</a> · <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
 
 profile:
   align: right
@@ -35,10 +35,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-My name is Hou Hei Lam (Henry) and I am a fourth-year undergraduate student majoring in Automation at Tsinghua University. I am also a member of [Tong Class](https://tongclass.ac.cn/author/houhei-lam/), a research talent program founded by Prof. [Song-Chun Zhu](https://zhusongchun.net/), dedicated to cultivating future leaders in AI and cognitive science.
+I am **Hou Hei Lam (Henry)**, currently pursuing a DPhil in Clinical Neurosciences at the **University of Oxford**, under the supervision of Prof. [Rafal Bogacz](https://www.bndu.ox.ac.uk/people/prof-rafal-bogacz). Previously, I studied Automation at Tsinghua University, where I was also a member of [Tong Class](https://www.tongclass.ac.cn/about).
 
-My long-term goal is to build an AI Scientist with human-like cognitive abilities, one that can truly expand the frontiers of scientific discovery. With this mission in mind, from my first to third year as an undergraduate I immersed myself in a variety of AI4Science projects to understand how far the current methodologies can really take us in practice. These projects convinced me that, while powerful, today’s approaches alone are unlikely to realize truly intelligent scientific discovery.
+At the heart of my curiosity lies a fundamental question: **what is the core recipe behind human intelligence?** I find this question deeply fascinating in its own right. Understanding how intelligence emerges from the brain is, to me, one of the most profound scientific challenges. Beyond its intrinsic appeal, I believe that uncovering the computational principles of biological intelligence could also inspire the next generation of intelligent systems capable of reasoning, exploration, and discovery.
 
-Now, I return to the fundamental question that has always been at the heart of my curiosity: **what are the core ingredients and the recipe behind human intelligence?** I believe that understanding this will be crucial for developing the next generation of intelligent systems that can reason, explore, and create knowledge like human scientists.
+To pursue this question, I focus on a **closed-loop science of intelligence**: using AI models to analyze brain data and generate hypotheses about how and why the brain computes (**AI→Brain**), then developing brain-inspired models to uncover and validate the brain's computational principles (**Brain→AI**). By iterating this recursive cycle **((AI→Brain)→AI)→...**, I aim to progressively deepen our understanding of intelligence while enabling impactful applications.
 
-To pursue this, I focus on a closed-loop science of intelligence: using AI models to analyze brain data and generate hypotheses about how and why the brain computes **(AI→Brain)**, then developing brain-inspired models to uncover and validate the brain’s latent computational principles **(Brain→AI)**. By iterating this recursive cycle **((AI→Brain)→AI)→...**, I aim to progressively advance our understanding of biological intelligence while enabling impactful medical and cognitive applications.
+Beyond understanding intelligence itself, I am also broadly interested in **AI for Science (AI4Science)**. I am excited by the potential of AI to accelerate scientific discovery, open up new avenues of inquiry, and push the frontiers of human knowledge across disciplines.
