@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "A collection of my research publications and preprints in AI4Science, neuroscience, and cognitive science.",
+          description: "A collection of my research publications and preprints in computational neuroscience, AI4Science.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -40,7 +40,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6C%69%6E%68%78%32%32@%6D%61%69%6C%73.%74%73%69%6E%67%68%75%61.%65%64%75.%63%6E", "_blank");
+          window.open("mailto:%68%6F%75%68%65%69.%6C%61%6D@%63%68%63%68.%6F%78.%61%63.%75%6B", "_blank");
         },
       },{
         id: 'social-scholar',
